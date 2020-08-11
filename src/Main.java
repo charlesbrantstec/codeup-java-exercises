@@ -19,23 +19,22 @@ public class Main {
 //        String theNumberThree = "three";
 //        Object o = theNumberThree;
 //        int three = (int) o;
-
-        int x = 4;
-        x = x + 5;
-        x += 5;
-
-        int x = 3;
-        int y = 4;
-        y = y * x;
-        y *= x;
-
-        int x = 10;
-        int y = 2;
-        x = x / y;
-        y = y - x;
-        y -= x/y;
-
+//
+//        int x = 4;
+//        x = x + 5;
+//        x += 5;
+//
+//        int x = 3;
+//        int y = 4;
+//        y = y * x;
+//        y *= x;
+//
+//        int x = 10;
+//        int y = 2;
+//        x = x / y;
+//        y = y - x;
+//        y -= x/y;
+//
 
     }
-
 }
