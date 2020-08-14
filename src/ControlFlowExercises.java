@@ -52,24 +52,23 @@ public class ControlFlowExercises {
 //            }
 //        }
 
-//        System.out.print("Enter and integer: ");
-//        int num = scanner.nextInt();
-//        System.out.println("Here is your table!\n" +
-//                "\n" +
-//                "number | squared | cubed\n" +
-//                "------ | ------- | -----");
-//        for(int i = 1; i <= num;   i++){
-//            System.out.println("" +i+"     | "+i*i+"       | "+i*i*i+"    \n");
-//        }
-
-        System.out.print("Enter your numerical grade from 1-100: ");
-        int grade = scanner.nextInt();
-
-        System.out.println("Do you wish to continue? y/n: ");
-
-        static void numberGradeToLetterGrade(){
-
+        System.out.print("Enter and integer: ");
+        int num = scanner.nextInt();
+        System.out.println("Here is your table!\n" +
+                "\n" +
+                "number | squared | cubed\n" +
+                "------ | ------- | -----");
+        for(int i = 1; i <= num;   i++){
+            System.out.println("" +i+"     | "+i*i+"       | "+i*i*i+"    \n");
         }
+
+//        System.out.print("Enter your numerical grade from 1-100: ");
+//        int grade = scanner.nextInt();
+//
+//        System.out.println("Do you wish to continue? y/n: ");
+//
+
+
 
     }
 }
