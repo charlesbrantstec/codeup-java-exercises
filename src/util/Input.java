@@ -56,7 +56,7 @@ public class Input {
 
     public double getDouble(){
 //        System.out.print("Enter double: ");
-        System.out.print("Enter the radius of your circle in inches: ");
+        System.out.print("Enter the radius of your circle in inches to the nearest hundredth : ");
         double dub = scanner.nextDouble();
         return dub;
     }
